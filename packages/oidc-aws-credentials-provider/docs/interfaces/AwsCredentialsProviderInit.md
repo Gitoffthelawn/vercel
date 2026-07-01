@@ -4,7 +4,7 @@
 
 # Interface: AwsCredentialsProviderInit
 
-Defined in: [packages/oidc-aws-credentials-provider/src/aws-credentials-provider.ts:22](https://github.com/vercel/vercel/blob/main/packages/oidc-aws-credentials-provider/src/aws-credentials-provider.ts#L22)
+Defined in: [packages/oidc-aws-credentials-provider/src/aws-credentials-provider.ts:22](https://github.com/Gitoffthelawn/vercel/blob/main/packages/oidc-aws-credentials-provider/src/aws-credentials-provider.ts#L22)
 
 The init object for the `awsCredentialsProvider` function.
 
@@ -18,7 +18,7 @@ The init object for the `awsCredentialsProvider` function.
 
 > `optional` **audience?**: `string`
 
-Defined in: [packages/oidc-aws-credentials-provider/src/aws-credentials-provider.ts:28](https://github.com/vercel/vercel/blob/main/packages/oidc-aws-credentials-provider/src/aws-credentials-provider.ts#L28)
+Defined in: [packages/oidc-aws-credentials-provider/src/aws-credentials-provider.ts:28](https://github.com/Gitoffthelawn/vercel/blob/main/packages/oidc-aws-credentials-provider/src/aws-credentials-provider.ts#L28)
 
 Optional audience to set on the exchanged token.
 
@@ -68,7 +68,7 @@ The duration, in seconds, of the role session. Defaults to 3600 seconds.
 
 > `optional` **jti?**: `string`
 
-Defined in: [packages/oidc-aws-credentials-provider/src/aws-credentials-provider.ts:33](https://github.com/vercel/vercel/blob/main/packages/oidc-aws-credentials-provider/src/aws-credentials-provider.ts#L33)
+Defined in: [packages/oidc-aws-credentials-provider/src/aws-credentials-provider.ts:33](https://github.com/Gitoffthelawn/vercel/blob/main/packages/oidc-aws-credentials-provider/src/aws-credentials-provider.ts#L33)
 
 Optional JTI to set on the exchanged token.
 
